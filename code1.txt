@@ -1,4 +1,2 @@
 dev ops code line 1
 dev ops code line2
-git resetmixed
-git revert test
